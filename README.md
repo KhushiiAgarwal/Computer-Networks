@@ -114,7 +114,6 @@ java UDPReceiver
 ```
 
 6.  UDP and TCP socket programming using Client-Server
-
 ##### TCP Client-Server
 ```
 javac TCPClient.java
@@ -145,7 +144,7 @@ javac UDPServer.java
 ```
 java UDPServer
 ```
-
+7.  Basic Networking Commands [Linux/Windows Terminal Commands](https://github.com/UdayJaju24/Computer-Networks/blob/main/Command%20prompt.md)
 
 
 If you find my repository helpful, please star⭐ it 🌟.
